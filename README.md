@@ -28,6 +28,7 @@ I have been using some Mac apps for my daily life for a long time. In case you a
 #### 📷 Screenshot and 🎥 Screen Recording
 
 - 🆓 [Shotrr](https://shottr.cc/) 📷
+- 🆓 [Lightshot](https://app.prntscr.com/en/index.html) 📷
 - 🆓 [ScreenPal](https://screenpal.com/) 📷 + 🎥 + 🔗
 - 💵 [CleanShotX](https://cleanshot.com/) 🔥 📷 + 🎥
 - 🆓 [Komodo Decks](https://komododecks.com/) 🔥 🎥 + 🔗
