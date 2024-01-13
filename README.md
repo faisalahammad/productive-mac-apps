@@ -32,6 +32,13 @@ I have been using some Mac apps for my daily life for a long time. In case you a
 - 💵 [CleanShotX](https://cleanshot.com/) 🔥 📷 + 🎥
 - 🆓 [Komodo Decks](https://komododecks.com/) 🔥 🎥 + 🔗
 
+
+![Preview](https://i.ibb.co/GVmrJtv/SCR-20240113-sjst.jpg)
+
+#### 💻 Extarnal Monitor
+
+- 🆓 [BetterDisplay](https://github.com/waydabber/BetterDisplay) 💻 
+
 ![Preview](https://media.cleanshot.cloud/media/21037/YBqm1AIIHYwvuWcxMDEJvPnqjKNGdsDK014hloQi.jpeg?Expires=1705161004&Signature=o20--Kwt7u3AhrsAvF5KaFzNuCvwDR-j-AOQyPTLywMBVz1GBRGuYigifXPRyMkjztU~9YXEdDb5g2KyeyxHs1S8efR-6kudPExSpZxjq07T2PAOvLQHG0ACKSxbQlG8iNqL5WGNrzOSEGF0cqmd5uQuXBy1~pGmcrYMLOCchtfScnJ9ZL66VS-xCjAT~E0Zuvde-kqGDmvRy4xxg4AgKNbyVLs5wU644x70TOMFdtiSz1ChubgO4I1qqO4Y0bNIz7KK0MyPIfd9U1v4fG3kPm3ZBQnkPY1-Sqn5iRhnoZsZCyL~PH84CJNIFDpZIQUKxcevhuDmhr~jjCpmY0wCcg__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
 #### 📓 Note taking with Password lock
@@ -67,6 +74,7 @@ I have been using some Mac apps for my daily life for a long time. In case you a
 
 - 🆓 [Warp](https://www.warp.dev/c) 🔥
 - 🆓 [iTerm2](https://iterm2.com/)
+- 🆓 [CodeWhisperer (Formerly fig.io)](https://aws.amazon.com/codewhisperer) 🔥
 
 ![Preview](https://1.1.1.1/media/warp-desktop.png)
 
